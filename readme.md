@@ -12,7 +12,15 @@ How to connect the printer  (如何接连打印机)
 ==
 
 <table>
-<tbody>
+<thead>  
+ <tr>
+<td>Model(型号)</td>
+<td>Picture(图示) </td>
+<td>instructions(说明)</td>
+<td>connection(接线)</td>
+</tr> 
+ </thead>  
+<tbody>  
 <tr>
 <td>V3_A <br>   A型</td>
 <td> <img src="https://github.com/stekstudio/stek_LCD_3D_printer/blob/master/xCubeV3/V3a_connection.jpg"></td>
