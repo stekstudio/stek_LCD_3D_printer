@@ -19,7 +19,7 @@ STEK 2K LCD 3D printer V3
 <hr>
 more:https://stek.taobao.com/ 
 <hr>
-<img src="https://raw.githubusercontent.com/stekstudio/stek_LCD_3D_printer/master/xCubeV3/v3_jpg.png:>
+<img src="https://raw.githubusercontent.com/stekstudio/stek_LCD_3D_printer/master/xCubeV3/v3_jpg.png">
 <hr>        
 How to connect the printer  (如何接连打印机)
 ==
