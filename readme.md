@@ -14,7 +14,7 @@ How to connect the printer  (如何接连打印机)
 <table>
 <thead>  
  <tr>
-<td>Model(型号)</td>
+<td>Model (型号)</td>
 <td>Picture(图示) </td>
 <td>instructions(说明)</td>
 <td>connection(接线)</td>
