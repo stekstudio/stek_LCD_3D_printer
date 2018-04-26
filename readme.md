@@ -10,6 +10,10 @@
 <table>
 <tbody>
 <tr>
+<td>表头1 <br> 回车</td>
+<td>表头2</td>
+</tr>
+<tr>
 <td>表头1</td>
 <td>表头2</td>
 </tr>
