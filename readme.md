@@ -7,8 +7,10 @@
 
 
 <hr>
+
 How to connect the printer  (如何接连打印机)
-=
+==
+
 <table>
 <tbody>
 <tr>
