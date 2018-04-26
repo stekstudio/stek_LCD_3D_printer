@@ -1,14 +1,26 @@
 
-2K LCD 3D printer V3
+STEK 2K LCD 3D printer V3
 ===
+<ul>
+<li>Full-metal Body;</li>
+</ul>
+<ul>
+<li>Dual Linear Guide Rail;</li>
+</ul>
+<ul>
+<li>6'LCD Monitor OR 5.5'LCD Monitor(Modular Design,Easy to change);</li>
+</ul>
+<ul>
+<li>40W 405nm UV LED (Modular Design);</li>
+</ul>
+<ul>
+<li>Raspberry PI and Open source Printer System (Easy to Upgrade & DIY);</li>
+</ul>
 <hr>
-
-![Image text](https://raw.githubusercontent.com/stekstudio/stek_LCD_3D_printer/master/xCubeV3/v3_jpg.png)
-
-
-
+more:https://stek.taobao.com/ 
 <hr>
-
+<img src="https://raw.githubusercontent.com/stekstudio/stek_LCD_3D_printer/master/xCubeV3/v3_jpg.png:>
+<hr>        
 How to connect the printer  (如何接连打印机)
 ==
 
