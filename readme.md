@@ -10,16 +10,17 @@ How to connect the printer  如何接连打印机
 <table>
 <tbody>
 <tr>
-<td>V3_A <br> A型</td>
-<td>V3_B <br> B型</td>
+<td>V3_A <br>   A型</td>
+<td> 图片a</td>
+<td>A->HDMI input <br> B->HDMI output </td>
+<td>1. connect B to A with a HDMI cable.<br> 2.connect e to D with a USB cable. <br> 3. connect the priter to you network by Port C </td>
 </tr>
 <tr>
-<td>图片A</td>
+<td>V3_B <br>   B型</td>
 <td>图片B</td>
+<td>A->HDMI input <br> B->HDMI output </td>
+<td>A->HDMI input <br> B->HDMI output </td>
 </tr>
-<tr>
-<td>"A->HDMI input" <br>"B->HDMI output"" </td>
-<td>表头2</td>
-</tr>
+
 </tbody>
 </table>
