@@ -8,10 +8,10 @@
 <hr>
 
 <table>
-<thead>
+<tbody>
 <tr>
-<th>表头1</th>
-<th>表头2</th>
+<td>表头1</td>
+<td>表头2</td>
 </tr>
-</thead>
+</tbody>
 </table>
