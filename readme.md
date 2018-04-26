@@ -31,7 +31,7 @@ How to connect the printer  (如何接连打印机)
 <tr>
 <td>V3_B <br>   B型</td>
 <td><img src="https://github.com/stekstudio/stek_LCD_3D_printer/blob/master/xCubeV3/V3b_connection.jpg"></td>
-<td>A->Power Input (24V DC) <br> B->Printer mainBoard USB <br> C->Ethernet Port<br> e-> raspberry PI usb X4 </td>
+<td>A->Power In (24V DC) <br> B->Printer mainBoard USB <br> C->Ethernet Port<br> e-> raspberry PI usb X4 </td>
 <td>1.connect e to B with a USB cable.<br> 2. connect the priter to you network by Port C</td>
 </tr>
 
