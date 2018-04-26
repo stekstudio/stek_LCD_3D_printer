@@ -6,6 +6,7 @@
 ![Image text](https://raw.githubusercontent.com/stekstudio/stek_LCD_3D_printer/master/xCubeV3/v3_jpg.png)
 
 
+
 <hr>
 
 How to connect the printer  (如何接连打印机)
@@ -29,9 +30,9 @@ How to connect the printer  (如何接连打印机)
 </tr>
 <tr>
 <td>V3_B <br>   B型</td>
-<td>图片B</td>
-<td>A->HDMI input <br> B->HDMI output </td>
-<td>A->HDMI input <br> B->HDMI output </td>
+<td><img src="https://github.com/stekstudio/stek_LCD_3D_printer/blob/master/xCubeV3/V3b_connection.jpg"></td>
+<td>A->Power Input (24V DC) <br> B->Printer mainBoard USB <br> C->Ethernet Port<br> e-> raspberry PI usb X4 </td>
+<td>A->1.connect e to B with a USB cable.<br> 2. connect the priter to you network by Port C</td>
 </tr>
 
 </tbody>
