@@ -14,7 +14,7 @@ STEK 2K LCD 3D printer V3
 <li>40W 405nm UV LED (Modular Design);</li>
 </ul>
 <ul>
-<li>Raspberry PI and Open source Printer System (Easy to Upgrade & DIY);</li>
+<li>Raspberry PI and Open source Printer System (NANO DLP,Easy to Upgrade & DIY);</li>
 </ul>
 <hr>
 more:https://stek.taobao.com/ 
